@@ -3,6 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "license": "MIT",
+  "homepage": "https://xpayr.com/developers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpayrcom/crypto-checkout-widget-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xpayrcom/crypto-checkout-widget-example/issues"
+  },
   "scripts": { "start": "node src/server.mjs", "test": "node --test tests/*.test.mjs" },
   "engines": { "node": ">=18" }
 }

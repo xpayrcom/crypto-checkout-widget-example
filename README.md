@@ -17,6 +17,11 @@ Demonstrate a polished browser checkout without exposing merchant secret keys or
 - Server-side session creation
 - Strict checkout-origin event handling
 
+## Requirements
+
+- Node.js 18+
+- npm 9+
+
 ## Quick start
 
 ```bash
